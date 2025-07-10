@@ -30,7 +30,7 @@ global.author = "ᴄʀᴇᴀᴛᴇᴅ ʙʏ ɪᴄᴏɴɪᴄ";
 global.themeemoji = "🤖";
 global.wm = "ɪᴄᴏɴɪᴄ ᴛᴇᴄʜ";
 
-global.link = "https://chat.whatsapp.com/LyFPHDvc5vMCglUFjv7Rlp";
+global.link = "https://chat.whatsapp.com/LyFPHDvc5vMCglUp";
 
 global.typemenu = "\u0076\u0031";
 
